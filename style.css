@@ -836,7 +836,7 @@ a:hover {
     .news__blocks::after {
       position: absolute;
       content: "";
-      background: url(./images/news/orange-decor.svg);
+      background: url(./images/solution/solution-img-decor-2.svg);
       background-repeat: no-repeat;
 
       width: 300px;
