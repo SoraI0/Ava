@@ -313,6 +313,7 @@ a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 20px;
   }
 
     .experience__text {
@@ -364,8 +365,9 @@ a:hover {
       position: relative;
       max-width: 540px;
 
-      box-shadow: 0px 8px 28px rgba(83, 83, 83, 0.15);
+      box-shadow:  0px 8px 28px rgba(83, 83, 83, 0.15);
       border-radius: 15px;
+      
     }
 
     .experience__form-wrapper::after {
@@ -448,7 +450,7 @@ a:hover {
 }
 
   .trust__inner {
-    margin-top: 245px;
+    margin-top: 225px;
     display: flex;
     justify-content: space-between;
     gap:35px
@@ -515,6 +517,7 @@ a:hover {
 
   .products__inner {
     margin-top: 149px;
+    padding-bottom: 20px;
     display: flex;
     justify-content: space-between;
     gap:35px
@@ -647,7 +650,7 @@ a:hover {
 
   .reviews__slider {
     position: relative;
-    margin-top: 230px;
+    margin-top: 210px;
   }
 
     .reviews__items {
@@ -1108,7 +1111,7 @@ a:hover {
   }
   
   .trust__inner {
-    margin-top: 100px;
+    margin-top: 75px;
     flex-wrap: wrap;
     justify-content: center;
   }
@@ -1134,7 +1137,7 @@ a:hover {
     }
     
   .reviews__slider {
-    margin-top: 100px;
+    margin-top: 75px;
   }
   
     .reviews__items {
